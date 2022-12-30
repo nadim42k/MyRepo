@@ -20,6 +20,12 @@ public class Even_OddNos {
 			System.out.println("Odd : " +a);}
 
 			}
+			
+			
+			
+			int x=10;
+			int y =20;
+			System.out.println(x+y);
 
 	}}
 
